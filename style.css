@@ -1,13 +1,32 @@
 
+
 .Instagram{
     background-color: plum;
     padding: 10px;
+    color:purple;
     border-radius: 10px;
-    border: 2px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .Youtube{
     background-color: red;
     padding: 10px;
     border-radius: 10px;
-    border: 2px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+#link{
+    text-decoration: none;
+    color: white;
+}
+
+
+#hover:hover{
+    background-color: rgb(228, 17, 17);
+    
+}
+
+#hover1:hover{
+    background-color: rgb(196, 132, 196);
+    
+}
+  
